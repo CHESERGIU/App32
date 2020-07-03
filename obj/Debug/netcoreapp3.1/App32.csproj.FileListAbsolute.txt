@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App32\bin\Debug\netcoreapp3.1\App32.exe
+C:\Users\sergi\source\repos\App32\bin\Debug\netcoreapp3.1\App32.deps.json
+C:\Users\sergi\source\repos\App32\bin\Debug\netcoreapp3.1\App32.runtimeconfig.json
+C:\Users\sergi\source\repos\App32\bin\Debug\netcoreapp3.1\App32.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App32\bin\Debug\netcoreapp3.1\App32.dll
+C:\Users\sergi\source\repos\App32\bin\Debug\netcoreapp3.1\App32.pdb
+C:\Users\sergi\source\repos\App32\obj\Debug\netcoreapp3.1\App32.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App32\obj\Debug\netcoreapp3.1\App32.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App32\obj\Debug\netcoreapp3.1\App32.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App32\obj\Debug\netcoreapp3.1\App32.dll
+C:\Users\sergi\source\repos\App32\obj\Debug\netcoreapp3.1\App32.pdb
